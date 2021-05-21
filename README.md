@@ -24,4 +24,4 @@ A ideia é indicar supermercados com preços mais baratos, e se necessário suge
 - [Mariana Dourado](https://github.com/MarianaDourado)
 - [Grazielly Vieira](https://www.linkedin.com/in/graziellyvieira/)
 
-#### Time W.A.R.M.
+#### - Time W.A.R.M.
