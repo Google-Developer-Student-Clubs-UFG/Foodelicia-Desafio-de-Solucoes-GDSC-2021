@@ -37,23 +37,26 @@ A ideia é indicar supermercados com preços mais baratos, e se necessário suge
  <br>
     <img src="https://user-images.githubusercontent.com/6981085/119073663-1a3f0b80-b9c4-11eb-8a68-28ee8ed17ee3.png">
 </p>
-
+ 
 <p align="center">
   <br>  
  <br>
-    <img src="https://user-images.githubusercontent.com/6981085/119073663-1a3f0b80-b9c4-11eb-8a68-28ee8ed17ee3.png">
+    <img src="https://user-images.githubusercontent.com/6981085/119073737-35aa1680-b9c4-11eb-8f14-85c3bb0ae905.png">
 </p>
 
-<p align="center">
-  <br>  
- <br>
-    <img src="https://user-images.githubusercontent.com/6981085/119073663-1a3f0b80-b9c4-11eb-8a68-28ee8ed17ee3.png">
-</p>
 
 <p align="center">
   <br>  
  <br>
-    <img src="https://user-images.githubusercontent.com/6981085/119073663-1a3f0b80-b9c4-11eb-8a68-28ee8ed17ee3.png">
+    <img src="https://user-images.githubusercontent.com/6981085/119073797-4d819a80-b9c4-11eb-95cf-9543fd36c754.png">
+</p>
+
+ 
+
+<p align="center">
+  <br>  
+ <br>
+    <img src="https://user-images.githubusercontent.com/6981085/119073858-5f633d80-b9c4-11eb-9619-ec4407dbc908.png">
 </p>
 
 
