@@ -20,7 +20,7 @@ Utilizaremos redes neurais treinadas com a biblioteca TensorFlow para detectar o
  
 
 
-## Ideia geral 
+## Proposta
 A ideia é indicar supermercados com preços mais baratos, e se necessário sugerindo substituições mais nutritivas ou mais baratas, para atender as necessidades do usuário. O app ainda mostra receitas saudáveis e nutritivas que o usuário pode fazer, de acordo com os itens que ele possui em casa.  
 
 
