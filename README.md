@@ -1,7 +1,7 @@
  
  
 <header> 
-<h1 align="center">Foodelícia - Desafio de solução GDSC 2021 </h1><h3 align="center">  Este projeto está sendo desenvolvido para submissão no Desafio de Soluções do Google. <br>  <br>  W.A.R.M. - DSC UFG</h3>
+<h1 align="center">Foodelícia - Desafio de solução GDSC 2021 </h1><h3 align="center">  Este projeto está sendo desenvolvido para submissão no Desafio de Soluções do Google. <br>  <br>  W.A.R.M. - DSC UFG</h3> 
 </header>
 
 
@@ -23,12 +23,25 @@ Utilizaremos redes neurais treinadas com a biblioteca TensorFlow para detectar o
 A ideia é indicar supermercados com preços mais baratos, e se necessário sugerindo substituições mais nutritivas ou mais baratas, para atender as necessidades do usuário. O app ainda mostra receitas saudáveis e nutritivas que o usuário pode fazer, de acordo com os itens que ele possui em casa.  
 
 
-## Fases conluídas
+## Fases concluídas
 - [x] Ideação
 - [x]  Prototipagem ([Protótipo - Foodelícia](https://github.com/Developer-Student-Clubs-UFG/Foodelicia-Desafio-de-Solucoes-Google/blob/main/Prot%C3%B3tipo%20-%20Foodel%C3%ADcia.pdf))
 - [ ]  Implementação
 - [ ]  Testes
 - [ ]  Publicação na Google Play 
+
+
+
+## Integrantes do time W.A.R.M.
+- [Rafael de Castro  ](https://github.com/rafaelcf03)
+- [Wendel Marques](https://github.com/wendelmarques)
+- [Alcebíades Filho](https://github.com/Alcefilho)
+- [Mariana Dourado](https://github.com/MarianaDourado)
+- [Grazielly Vieira](https://www.linkedin.com/in/graziellyvieira/)
+
+
+
+
 
 ## Features
 
@@ -60,17 +73,46 @@ A ideia é indicar supermercados com preços mais baratos, e se necessário suge
 </p>
 
 
+ <p align="center">
+  <br>  
+ <br>
+    <img src="https://user-images.githubusercontent.com/6981085/119073936-81f55680-b9c4-11eb-89e9-4a833b93cb28.png">
+</p>
+
+ <p align="center">
+  <br>  
+ <br>
+    <img src="https://user-images.githubusercontent.com/6981085/119073972-90437280-b9c4-11eb-814c-5c88b117a2b0.png">
+</p>
+
+ <p align="center">
+  <br>  
+ <br>
+    <img src="https://user-images.githubusercontent.com/6981085/119074017-a3564280-b9c4-11eb-925b-18891ec9a9bf.png">
+</p>
+
+ <p align="center">
+  <br>  
+ <br>
+    <img src="https://user-images.githubusercontent.com/6981085/119074045-aea96e00-b9c4-11eb-824b-b36141f0d91c.png">
+</p>
+
+
+ <p align="center">
+  <br>  
+ <br>
+    <img src="https://user-images.githubusercontent.com/6981085/119074117-d567a480-b9c4-11eb-84f3-df6d20c75633.png">
+</p>
+
+ <p align="center">
+  <br>  
+ <br>
+    <img src="https://user-images.githubusercontent.com/6981085/119074142-e1536680-b9c4-11eb-9570-803325101f72.png">
+</p>
  
 
-## Integrantes do time W.A.R.M.
-- [Rafael de Castro  ](https://github.com/rafaelcf03)
-- [Wendel Marques](https://github.com/wendelmarques)
-- [Alcebíades Filho](https://github.com/Alcefilho)
-- [Mariana Dourado](https://github.com/MarianaDourado)
-- [Grazielly Vieira](https://www.linkedin.com/in/graziellyvieira/)
 
 
-[Desafio de Soluções do Google](https://developers.google.com/community/dsc-solution-challenge?authuser=1)
 
 ## Créditos
 <a>Alguns ícone por <a target="_blank" href="https://icons8.com.br/icons/s">Icons8</a></br>
