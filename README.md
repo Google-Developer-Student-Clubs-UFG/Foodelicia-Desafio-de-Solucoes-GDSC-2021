@@ -17,11 +17,15 @@ A ideia é indicar supermercados com preços mais baratos, e se necessário suge
 - [ ]  Publicação na Google Play 
 
 
-## Integrantes do time:
+## Integrantes do time W.A.R.M.:
 - [Rafael de Castro  ](https://github.com/rafaelcf03)
 - [Wendel Marques](https://github.com/wendelmarques)
 - [Alcebíades Filho](https://github.com/Alcefilho)
 - [Mariana Dourado](https://github.com/MarianaDourado)
 - [Grazielly Vieira](https://www.linkedin.com/in/graziellyvieira/)
 
-#### - Time W.A.R.M.
+ 
+
+## Créditos
+<a>Alguns ícone por <a target="_blank" href="https://icons8.com.br/icons/s">Icons8</a></br>
+<a>Prototipagem via <a target="_blank" href="Proto.io">Proto.io</a>
