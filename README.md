@@ -18,7 +18,8 @@
 A solução ainda não foi implementada. Todavia, planejamos construir toda a aplicação em Flutter, com o intuito de atender tanto mobile, quanto web. 
 Utilizaremos redes neurais treinadas com a biblioteca TensorFlow para detectar o padrão de consumo dos usuários.
  
-<br>
+
+
 ## Ideia geral 
 A ideia é indicar supermercados com preços mais baratos, e se necessário sugerindo substituições mais nutritivas ou mais baratas, para atender as necessidades do usuário. O app ainda mostra receitas saudáveis e nutritivas que o usuário pode fazer, de acordo com os itens que ele possui em casa.  
 
