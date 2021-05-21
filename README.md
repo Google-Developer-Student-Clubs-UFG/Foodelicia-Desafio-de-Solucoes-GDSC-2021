@@ -30,7 +30,34 @@ A ideia é indicar supermercados com preços mais baratos, e se necessário suge
 - [ ]  Testes
 - [ ]  Publicação na Google Play 
 
-## 
+## Features
+
+<p align="center">
+  <br>  
+ <br>
+    <img src="https://user-images.githubusercontent.com/6981085/119073663-1a3f0b80-b9c4-11eb-8a68-28ee8ed17ee3.png">
+</p>
+
+<p align="center">
+  <br>  
+ <br>
+    <img src="https://user-images.githubusercontent.com/6981085/119073663-1a3f0b80-b9c4-11eb-8a68-28ee8ed17ee3.png">
+</p>
+
+<p align="center">
+  <br>  
+ <br>
+    <img src="https://user-images.githubusercontent.com/6981085/119073663-1a3f0b80-b9c4-11eb-8a68-28ee8ed17ee3.png">
+</p>
+
+<p align="center">
+  <br>  
+ <br>
+    <img src="https://user-images.githubusercontent.com/6981085/119073663-1a3f0b80-b9c4-11eb-8a68-28ee8ed17ee3.png">
+</p>
+
+
+ 
 
 ## Integrantes do time W.A.R.M.
 - [Rafael de Castro  ](https://github.com/rafaelcf03)
