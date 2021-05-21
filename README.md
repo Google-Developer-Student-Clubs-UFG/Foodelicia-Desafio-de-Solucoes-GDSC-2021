@@ -28,8 +28,7 @@ A ideia é indicar supermercados com preços mais baratos, e se necessário suge
 - [x]  Prototipagem ([Protótipo - Foodelícia](https://github.com/Developer-Student-Clubs-UFG/Foodelicia-Desafio-de-Solucoes-Google/blob/main/Prot%C3%B3tipo%20-%20Foodel%C3%ADcia.pdf))
 - [ ]  Implementação
 - [ ]  Testes
-- [ ]  Publicação na Google Play 
-
+- [ ]  Publicação nas lojas de aplicativos
 
 
 ## Integrantes do time W.A.R.M.
